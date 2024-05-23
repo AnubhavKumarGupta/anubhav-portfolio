@@ -21,7 +21,7 @@ https://anubhav-kumar-gupta-portfolio.vercel.app/
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://prachi24599.github.io/)**
+To view a live example, **[click here](https://anubhav-kumar-gupta-portfolio.vercel.app/)**
 
 ## Tools Used 🛠️
 
