@@ -153,6 +153,10 @@ if (selectedTheme) {
     iconTheme
   );
 }
+
+
+
+
 // Activate / deactivate the theme manually with the button
 themeButton.addEventListener("click", () => {
   // Add or remove the dark / icon theme
@@ -165,9 +169,15 @@ themeButton.addEventListener("click", () => {
 
 /*==================== TYPING ANIMATION ====================*/
 let typeData = new Typed(".type", {
-  strings: ["Frontend", "Python", "Django", "React JS", "Backend", "Full Stack", "Web"],
+  strings: ["Frontend"],
   loop: true,
   typeSpeed: 100,
   backSpeed: 80,
   backDelay: 1000,
 });
+
+
+
+// for future purpose.
+
+// , "Python", "Django", "React JS", "Backend", "Full Stack", "Web"
