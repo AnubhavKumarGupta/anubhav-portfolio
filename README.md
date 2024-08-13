@@ -1,11 +1,19 @@
 ## Personal Portfolio
 
-## Link 👉 https://anubhav-kumar-gupta-portfolio.vercel.app/
-##
+
+###  Link 👉 https://anubhav-kumar-gupta-portfolio.vercel.app/
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
 <div align="center">
   <img src="https://github.com/AnubhavKumarGupta/anubhav-portfolio/blob/99f2180abadd6b302b25b5cdd831f8db2246a996/assets/img/demo.gif" alt="portfolio">
 </div>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
 ## Features 📋
 
