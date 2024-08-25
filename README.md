@@ -7,9 +7,13 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/AnubhavKumarGupta/anubhav-portfolio/blob/99f2180abadd6b302b25b5cdd831f8db2246a996/assets/img/demo.gif" alt="portfolio">
-</div>
+
+
+
+
+https://github.com/user-attachments/assets/e38843b5-ec39-4c46-a309-085646b8702f
+
+
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
